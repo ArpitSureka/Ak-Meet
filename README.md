@@ -1,6 +1,8 @@
 # Ak-Meet
 
-A Video Calling application.
+A Video Calling application. Replica of google Meet.
+
+
 
 ## About the project
 
@@ -51,3 +53,12 @@ It will run the sever on your local host so now on your browser go to the link "
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Screenshots
+![Screenshot94 info](https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(99).png)
+![Screenshot94 info](https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(101).png)
+![Screenshot94 info](https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(102).png)
+![Screenshot94 info](https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(105).png)
+![Screenshot94 info](https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(104).png)
+![Screenshot94 info](https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(106).png)
+![Screenshot94 info](https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(108).png)

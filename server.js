@@ -27,10 +27,6 @@ app.use(passport.initialize());
 app.use(passport.session());
 app.use('/peerjs', peerServer);
 
-app.get('/google', (req, res) => {
-  res.render('login')
-  // res.send('<a href="/auth/google">Authenticate with Google</a>');
-});
 
 app.get('/auth/google',
   passport.authenticate('google', { scope: [ 'email', 'profile' ] }
